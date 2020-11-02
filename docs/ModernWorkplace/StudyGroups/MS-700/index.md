@@ -10,15 +10,15 @@ Click here to register:  [MS-700: Managing Microsoft Teams](https://msuspartners
 
 |Topic|     Date|Homework|Recording|
 | - | - | - | - |
-|**Kickoff**|TBD|None!|  |
-|**Plan and configure a Microsoft Teams environment: Part 1**| TBD |[Link](PlanandconfigureaMicrosoftTeamsenvironment1.md) |  |
-|**Plan and configure a Microsoft Teams environment: Part 2**| TBD |[Link](PlanandconfigureaMicrosoftTeamsenvironment2.md) |  |
-|**Plan and configure a Microsoft Teams environment: Part 3**| TBD |[Link](PlanandconfigureaMicrosoftTeamsenvironment3.md) |  |
-|**Manage Chat, Calling, and Meetings: Part 1**| TBD |[Link](ManageChatCallingandMeetings1.md) |  |
-|**Manage Chat, Calling, and Meetings: Part 2**| TBD |[Link](ManageChatCallingandMeetings2.md) |  |
-|**Manage Teams and app policies**| TBD |[Link](ManageTeamsandapppolicies.md) |  |
-|**Final Review**|TBD | None! | | 
- 
+|**Kickoff**|May 7|None!| [Link](https://msuspartners.eventbuilder.com/event/19904) |
+|**Plan and configure a Microsoft Teams environment: Part 1**| May 14 |[Link](PlanandconfigureaMicrosoftTeamsenvironment1.md) | [Link](https://msuspartners.eventbuilder.com/event/20694) |
+|**Plan and configure a Microsoft Teams environment: Part 2**| May 21 |[Link](PlanandconfigureaMicrosoftTeamsenvironment2.md) | [Link](https://msuspartners.eventbuilder.com/event/20695) |
+|**Plan and configure a Microsoft Teams environment: Part 3**| May 28 |[Link](PlanandconfigureaMicrosoftTeamsenvironment3.md) | [Link](https://msuspartners.eventbuilder.com/event/20697) |
+|**Manage Chat, Calling, and Meetings: Part 1**| June 4 |[Link](ManageChatCallingandMeetings1.md) | [Link](https://msuspartners.eventbuilder.com/event/20698) |
+|**Manage Chat, Calling, and Meetings: Part 2**| June 11 |[Link](ManageChatCallingandMeetings2.md) | [Link](https://msuspartners.eventbuilder.com/event/20701) |
+|**Manage Teams and app policies**| June 18 |[Link](ManageTeamsandapppolicies.md) | [Link](https://msuspartners.eventbuilder.com/event/20703) |
+|**Final Review**| June 25 | None! | [Link](https://msuspartners.eventbuilder.com/event/20704) |
+
 
 ## What are study groups?
 
@@ -28,7 +28,7 @@ Community-based deep technical sessions with an emphasis on experiential learnin
 
 Participants should complete the following prior to attending a study group:
 
-- Entry Level knowlendge of Microsoft Teams Administration
+- Entry Level knowledge of Microsoft Teams Administration
 - VILT training for the exam you wish to take
 - Working M365 Subscription (Visual Studio or IUR)
 
@@ -38,12 +38,13 @@ Simple ... Each file listed is a separate homework assignment, one for each of t
 If you see a typo or want to add content that others may find useful, edit away and submit your changes!
 Additionally, if you see something, say something!  Let's leverage the power of the community.
 
-**If you run across an interesting blog post, article, nuggest of truth, update the documents on Github!**
- 
+**If you run across an interesting blog post, article, nugget of truth, update the documents on Github!**
+
 ## Important Links
 
 - [Microsoft 365 certification exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?products=m365)
 - [MS-700: Managing Microsoft Teams – Skills Measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF)
+- [Modern Workplace Study Group Yammer](https://www.yammer.com/msuspartner/#/threads/inGroup?type=in_group&feedId=25750667264&view=all)
 
 ## Important Information
 
